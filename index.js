@@ -9,7 +9,6 @@ if (feet<=400) {
   return "I will gladly take your thirty bucks."
 }
   
-  return 
 }
 
 function ternaryCheckCity(city) {
